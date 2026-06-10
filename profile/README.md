@@ -36,6 +36,17 @@
       <a href="https://xca-attacks.github.io/breakfast/breakfast_oakland26.pdf">📄 Paper</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <img src="https://xca-attacks.github.io/staleus-symbol.svg" width="220px"><br>
+      <h3><b>Staleus</b></h3>
+      <p><i>Breaking AMD SEV-SNP via Memory Incoherence</i></p>
+      <p><b>USENIX Security 2026</b></p>
+      <a href="https://xca-attacks.github.io/staleus/staleus_usenix26.pdf">📄 Paper</a>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -46,6 +57,7 @@ We have worked closely with AMD to address these vulnerabilities.
 
 - **BreakFAST**: Assigned **CVE-2025-61971** and **CVE-2025-61972**. [AMD Advisory (AMD-SB-3030)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3030.html)
 - **Fabricked**: Assigned **CVE-2025-54510**. [AMD Advisory (AMD-SB-3034)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3034.html)
+- **Staleus**: Assigned **CVE-2025-54509**. [AMD Advisory (AMD-SB-3039)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3039.html)
 
 ---
 
@@ -59,6 +71,16 @@ For more technical details visit our project website:
 ### Citation
 
 ```bibtex
+@inproceedings{schlueter2026staleus,
+  title={{Staleus: Breaking AMD SEV-SNP via Memory Incoherence}},
+  author={Benedict Schlüter and Shweta Shinde},
+  booktitle={35th USENIX Security Symposium (USENIX Security 26)},
+  year={2026},
+  month = aug,
+  address = {Baltimore, MD},
+  publisher = {USENIX Association},
+}
+
 @inproceedings{schlueter2026fabricked,
   title={{Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP}},
   author={Benedict Schlüter and Christoph Wech and Shweta Shinde},
