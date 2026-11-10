@@ -45,17 +45,11 @@
       <a href="https://xca-attacks.github.io/staleus/staleus_usenix26.pdf">📄 Paper</a>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
       <img src="https://xca-attacks.github.io/Mior-symbol.svg" width="220px"><br>
       <h3><b>MIOR</b></h3>
       <p><i>Breaking AMD SEV-SNP with Device-as-Memory</i></p>
       <p><b>ACM CCS 2026</b></p>
       <a href="https://xca-attacks.github.io/mior/mior_ccs26.pdff">📄 Paper</a>
-    </td>
-    <td align="center" width="50%" style="vertical-align: top;">
     </td>
   </tr>
 </table>
