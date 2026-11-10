@@ -107,7 +107,6 @@ For more technical details visit our project website:
   publisher = {IEEE},
 }
 
-
 @inproceedings{wech2026mior,
   title = {{Mior: Breaking AMD SEV-SNP with Device-as-Memory}},
   author = {Chris Wech and Philipp Giersfeld and Benedict Schlüter and Shweta Shinde},
