@@ -47,6 +47,17 @@
     <td align="center" width="50%" style="vertical-align: top;">
     </td>
   </tr>
+   <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <img src="https://xca-attacks.github.io/Mior-symbol.svg" width="220px"><br>
+      <h3><b>MIOR</b></h3>
+      <p><i>Breaking AMD SEV-SNP with Device-as-Memory</i></p>
+      <p><b>ACM CCS 2026</b></p>
+      <a href="https://xca-attacks.github.io/mior/mior_ccs26.pdff">📄 Paper</a>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -58,6 +69,7 @@ We have worked closely with AMD to address these vulnerabilities.
 - **BreakFAST**: Assigned **CVE-2025-61971** and **CVE-2025-61972**. [AMD Advisory (AMD-SB-3030)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3030.html)
 - **Fabricked**: Assigned **CVE-2025-54510**. [AMD Advisory (AMD-SB-3034)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3034.html)
 - **Staleus**: Assigned **CVE-2025-54509**. [AMD Advisory (AMD-SB-3039)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3039.html)
+- **MIOR**: Assigned **CVE-2026-0462**. [AMD Advisory (AMD-SB-3059)](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3059.html)
 
 ---
 
@@ -99,5 +111,17 @@ For more technical details visit our project website:
   month = may,
   address = {San Francisco, CA},
   publisher = {IEEE},
+}
+
+
+@inproceedings{wech2026mior,
+  title = {{Mior: Breaking AMD SEV-SNP with Device-as-Memory}},
+  author = {Chris Wech and Philipp Giersfeld and Benedict Schlüter and Shweta Shinde},
+  booktitle = {Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security},
+  year = {2026},
+  month = nov,
+  address = {The Hague, Netherlands},
+  publisher = {Association for Computing Machinery},
+  doi = {10.1145/3830454.3846723},
 }
 ```
