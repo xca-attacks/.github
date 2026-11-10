@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-xca--attacks.github.io-blue?style=for-the-badge)](https://xca-attacks.github.io)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/xca-attacks/xca-attacks.github.io/build-and-commit-gh-pages.yml?branch=main&style=for-the-badge)](https://github.com/xca-attacks/xca-attacks.github.io/actions)
 
-<img src="https://xca-attacks.github.io/preview.png" width="800px" style="border-radius: 10px; margin: 20px 0;">
+<img src="https://xca-attacks.github.io/preview-v2.png" width="800px" style="border-radius: 10px; margin: 20px 0;">
 
 </div>
 
